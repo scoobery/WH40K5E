@@ -835,8 +835,7 @@ A unit may only benefit from the effects of one Ka&apos;tah Stance at a time, an
   </sharedProfiles>
   <sharedRules>
     <rule name="One In Ten Thousand" id="a226-a827-1018-b8bf" hidden="false">
-      <description>When using kill points during any mission, Adeptus Custodes units do not need to be fully slain to count towards the kill points tally. Instead, the points value of each individual slain Adeptus Custodes model is counted towards your opponent&apos;s kill points.
-</description>
+      <description>When using kill points during any mission, Adeptus Custodes units do not need to be fully slain to count towards the kill points tally. Instead, any Adeptus Custodes unit which has lost one or more models is counted as 1 kill point.</description>
     </rule>
   </sharedRules>
   <sharedSelectionEntries>
